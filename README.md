@@ -1,11 +1,11 @@
 # hole.cert.pl-adoption
-Data about adoption of hole.cert.pl among Polish ISP providers
+Data about adoption of hole.cert.pl among Polish ISP
 
 
 Description
 ---------
 The aim of this project is to gather data about adoption of hole.cert.pl anti phishing
-DNS protection (read more: https://www.cert.pl/ostrzezenia_phishing/) among Polish ISP providers.
+DNS protection (read more: https://www.cert.pl/ostrzezenia_phishing/) among Polish ISP.
 
 It provides both data and tools to gather or verify them.
 
