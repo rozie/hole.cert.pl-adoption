@@ -1,5 +1,8 @@
-ISP name, server IP, hostname, use hole.cert.pl
+ISP name, server IP, hostname (PTR), use hole.cert.pl
 Orange, 194.204.152.34, dns2.tpsa.pl, True
 Orange, 194.204.159.1, dns.tpsa.pl, True
 INEA, 62.21.99.95, cachens1.inea.pl, False
 INEA, 62.21.99.94, c99-94.icpnet.pl, False
+Multimedia (grupa Vectra), 89.231.1.206, dnscache2.mm.pl, False
+Multimedia (grupa Vectra), 217.172.224.160, dnscache1.mm.pl, False
+
