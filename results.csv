@@ -1,0 +1,5 @@
+ISP name, server IP, hostname, use hole.cert.pl
+Orange, 194.204.152.34, dns2.tpsa.pl, True
+Orange, 194.204.159.1, dns.tpsa.pl, True
+INEA, 62.21.99.95, cachens1.inea.pl, False
+INEA, 62.21.99.94, c99-94.icpnet.pl, False
