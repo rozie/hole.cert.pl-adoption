@@ -6,7 +6,7 @@ if [ $# -lt 1 ]; then
   echo "Usage: ./hole_cert_check server [server2]"
 fi
 
-DOMAIN="olxpln.fun"
+DOMAIN="olx.pl-oferta.com"
 NON_BLOCK_DNS="8.8.8.8"
 TIMESTAMP=`date -u +%Y-%m-%d\ %H:%m:%S`
 
