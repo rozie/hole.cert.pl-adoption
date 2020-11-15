@@ -9,3 +9,5 @@ UPC, 62.179.1.60, pl-war-dns01.chello.pl, False
 UPC, 62.179.1.61, pl-war-dns02.chello.pl, False
 UPC, 62.179.1.62, pl-waw4a-dns03.chello.pl, False
 UPC, 62.179.1.63, pl-waw4a-dns04.chello.pl, False
+T-Mobile, 213.158.199.1, ns1-a.era.pl, True
+T-Mobile, 213.158.199.5, ns1-b.era.pl, True

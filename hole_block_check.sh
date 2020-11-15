@@ -20,6 +20,6 @@ do
   else
     are_same=0
   fi
-  line=$TIMESTAMP", "$DOMAIN", "$server", "$NON_BLOCK_DNS", "$are_same", "$pattern", "$result
+  line=$TIMESTAMP", "$DOMAIN", "$server", "$NON_BLOCK_DNS", "$are_same", "$pattern"; "$result
   echo $line
 done
