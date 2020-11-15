@@ -5,4 +5,7 @@ INEA, 62.21.99.95, cachens1.inea.pl, False
 INEA, 62.21.99.94, c99-94.icpnet.pl, False
 Multimedia (grupa Vectra), 89.231.1.206, dnscache2.mm.pl, False
 Multimedia (grupa Vectra), 217.172.224.160, dnscache1.mm.pl, False
-
+UPC, 62.179.1.60, pl-war-dns01.chello.pl, False
+UPC, 62.179.1.61, pl-war-dns02.chello.pl, False
+UPC, 62.179.1.62, pl-waw4a-dns03.chello.pl, False
+UPC, 62.179.1.63, pl-waw4a-dns04.chello.pl, False
