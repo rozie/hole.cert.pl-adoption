@@ -19,7 +19,7 @@ Requirements
 ---------
 - Bash
 - *host* command (comes in bind9-host package in Debian)
-- curl, sort, tail, awk commands available
+- *curl*, *sort*, *tail*, *awk* commands available
 
 
 Usage
